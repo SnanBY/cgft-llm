@@ -24,6 +24,8 @@
 | 7    | mkdocs+readthedocs部署项目文档  | [🏂 mkdocs](mkdocs/README.md)  | [🤾‍♀️ Bilibili](https://www.bilibili.com/video/BV19f421v7P9) <br> [🏊‍♀️ YouTube](https://youtu.be/FRyvV-hj65M) |
 | 8    | function-calling 自动发邮件    | [🏂 function-calling](function-calling/README.md)  | [🤾‍♀️ Bilibili](https://www.bilibili.com/video/BV1eH4y1c7KQ/) <br> [🏊‍♀️ YouTube](https://youtu.be/dPKPQ2DA88k) |
 
+### pip源
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## 🛒 Roadmap (Beta)
 
